@@ -15,4 +15,4 @@ The developed shiny application visualize the relationship between the car weigh
 - to select a subset of cars with specific number of cylinders (4, 6 or 8) using the input boxes and investigate how the relationship between car weight and mpg changes by the number of cylinders. 
 - the results are visualised as a scatter plot with each data point clearly labelle with car brand name. 
 
-The presentation pubsished in Rpubs https://elenay.shinyapps.io/MyShinyProject/
+The presentation published in Rpubs https://elenay.shinyapps.io/MyShinyProject/
